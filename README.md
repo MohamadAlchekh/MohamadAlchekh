@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamad Alchekh</h1>
 <h3 align="center">A passionate programming learner</h3>
 
-- 🌱 I’m currently learning **Linux and unity**
+- 🌱 I’m currently learning **unity**
 
 - 📫 Reach me on : **m.alchekh@outlook.com**
 
